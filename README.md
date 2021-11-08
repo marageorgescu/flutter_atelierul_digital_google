@@ -1,6 +1,6 @@
 # flutter_atelierul_digital_google
 
-<p>Tema 1: Currency Convertor</p> 
+Tema 1: Currency Convertor<br> 
 <p>&nbsp&nbsp&nbsp&nbspDescriere:</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspIntrodu suma de bani in euro si converteste-o in RON (1 euro = 4.50 RON).</p>
 <p>&nbsp&nbsp&nbsp&nbspDemo:</p>
