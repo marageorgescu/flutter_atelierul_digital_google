@@ -1,9 +1,10 @@
-import 'package:flutter/material.dart';
 import 'dart:math';
+import 'package:flutter/material.dart';
 
 void main() {
-  runApp(new MaterialApp(
-      home: new MyHomePage()
+
+  runApp(MaterialApp(
+      home: MyHomePage()
   )
   );
 }
@@ -63,9 +64,6 @@ class HomePage extends State<MyHomePage> {
   }
 
   bool isNumeric(String s) {
-    if (s == null) {
-      return false;
-    }
     return double.tryParse(s) != null;
   }
 
@@ -86,7 +84,7 @@ class HomePage extends State<MyHomePage> {
     }
   }
 
-  showAlertDialog(BuildContext context) {
+  void showAlertDialog(BuildContext context) {
     AlertDialog alert = AlertDialog(
       title: Text("${myController.text}"),
       content: Text(alertDialogContent(myController.text)),
@@ -94,7 +92,7 @@ class HomePage extends State<MyHomePage> {
 
       ],
     );
-    showDialog(
+    showDialog<Widget>(
       context: context,
       builder: (BuildContext context) {
         return alert;
