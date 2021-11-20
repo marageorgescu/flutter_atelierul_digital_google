@@ -17,3 +17,9 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspEnter a number to see if it's square, triangular, both or none.<br>
 &nbsp&nbsp&nbsp&nbspDemo:<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsphttps://drive.google.com/file/d/1c7h4dOvzQ2354Dm3RUMw5PZZZMcxarVe/view?usp=sharing</p>
+
+<p>Homework 4: Basic Phrases<br> 
+&nbsp&nbsp&nbsp&nbsphttps://github.com/marageorgescu/Basic-Phrases.git</p>
+
+<p>Homework 5: Tic-Tac-Toe<br> 
+&nbsp&nbsp&nbsp&nbsphttps://github.com/marageorgescu/TicTacToe.git</p>
