@@ -23,3 +23,6 @@
 
 <p>Homework 5: Tic-Tac-Toe<br> 
 &nbsp&nbsp&nbsp&nbsphttps://github.com/marageorgescu/TicTacToe.git</p>
+
+<p>Final Project: Weather App<br>
+&nbsp&nbsp&nbsp&nbsphttps://github.com/marageorgescu/GAD-Flutter-WeatherApp.git</p>
